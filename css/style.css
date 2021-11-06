@@ -53,6 +53,10 @@ h1,h2,h3{
 .text-grey{
     color: #555;
 }
+.bg-dark{
+    background-color: #263238;
+}
+
 .btn{
     display: inline-block;
     padding: 0.5em 1.5em;
@@ -98,15 +102,15 @@ border: 2px solid #e63946;
  .navbar a{
     color: #fff;
 }
-.header .navbar .logo{
+ .navbar .logo{
     float: left;
    
 }
-.header .navbar .nav-items{
+ .navbar .nav-items{
     float: right;
     margin-top: 1rem;
 }
-.header .navbar .nav-item{
+ .navbar .nav-item{
     display: inline-block;
     padding: 1rem;
     text-transform: uppercase;
@@ -224,3 +228,16 @@ clear: both;
 .social-media-links i{
     margin: 2rem;
 }
+
+
+/* ########################## about section########################## */
+.about{
+    padding: 1.5rem;
+}
+.about-heading::after {
+    content: "";
+    display: block;
+    border-bottom: 5px solid #e63946;
+    width: 100%;
+}
+
