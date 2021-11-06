@@ -1,3 +1,8 @@
+YOU CAN SEE THE PROJECT JUST CLICK ON THE LINK GIVEN BELOW:
+https://compassionate-jang-f050df.netlify.app
+
+
+
 # travel-project
 This project is made using only html and css.
 I just wanted to practice the float tag so i build this using float property only. no flexbox or grid property is used.
